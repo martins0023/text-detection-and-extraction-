@@ -1,0 +1,11 @@
+python3
+extract
+cv2
+pytesseract
+pandas
+numpy
+scipy
+PIL
+detectron2
+scikit-image
+open-cv

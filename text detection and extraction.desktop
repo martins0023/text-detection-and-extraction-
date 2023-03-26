@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=text detection and extraction
+Comment=text detection and extraction from an image
+Exec=python3 gui.py
+Icon=badland
+Path=/home/xbase/Documents/samuel-text_detection-recognition-and-extraction
+Terminal=true
+StartupNotify=false
